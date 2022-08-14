@@ -31,7 +31,7 @@ DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['morning-coast-06742.herokuapp.com','127.0.0.1']
 
 
 # Application definition
